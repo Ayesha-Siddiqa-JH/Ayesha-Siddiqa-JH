@@ -14,7 +14,7 @@
 ## 💻 **Tech Stack & Skills**
 ### 🌐 **Web Development**
 - ✅ HTML, CSS, JavaScript  
-- ⚙️ React.js, Django  
+
 
 ### 🛠️ **Programming Languages**
 - 🐍 Python  
