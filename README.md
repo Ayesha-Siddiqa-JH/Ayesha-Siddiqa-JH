@@ -26,8 +26,7 @@
 
 ---
 
-## 🌱 **Currently Learning**
-- 🤖 **Generative AI & NLP**  
+## 🌱 **Currently Learning** 
 - 💡 **Advanced Data Science Techniques**  
 - 🚀 **Full-Stack Development with Django & React**
 
