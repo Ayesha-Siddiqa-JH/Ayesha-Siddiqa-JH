@@ -48,7 +48,6 @@
 ⭐ **Fun Fact:**  
 - 🔥 I love **solving coding challenges** and exploring **cutting-edge AI technologies**!
 - ![Profile Views](https://komarev.com/ghpvc/?username=Ayesha-Siddiqa-JH&label=Profile%20Views&color=0e75b6&style=flat)
-- https://shields.io/badge/dynamic/json?label=Visitors&query=$.count&url=https://api.visitorbadge.io/v1/visitor?path=https://github.com/Ayesha-Siddiqa-JH
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https://github.com/Ayesha-Siddiqa-JH&countColor=%23263759&style=flat)
+
 
 
